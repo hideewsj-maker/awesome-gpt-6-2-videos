@@ -1,5 +1,16 @@
 [
   {
+    "id": "2123932620212072581",
+    "url": "https://x.com/viktoroddy/status/2123932620212072581",
+    "maker": "viktoroddy",
+    "category": "motion",
+    "seconds": 7,
+    "postedAt": "2026-11-21",
+    "title": "Thought That Lasts, a landing page with a point-cloud marble bust that follows the cursor",
+    "titleZh": "《Thought That Lasts》：点云大理石半身像随鼠标转动的落地页",
+    "tools": []
+  },
+  {
     "id": "2122767541823225891",
     "url": "https://x.com/soyukke_game/status/2122767541823225891",
     "maker": "soyukke_game",
@@ -8,6 +19,39 @@
     "postedAt": "2026-11-17",
     "title": "A little steam train through a pink city in the sky, at xhigh",
     "titleZh": "穿行于粉色空中城市的小火车，xhigh 强度",
+    "tools": []
+  },
+  {
+    "id": "2124465319087308918",
+    "url": "https://x.com/kinderlayer/status/2124465319087308918",
+    "maker": "kinderlayer",
+    "category": "compare",
+    "seconds": 12,
+    "postedAt": "2026-11-22",
+    "title": "An engine cylinder firing in cross-section: Fable 5.2 vs GPT-6.2 Astra vs Gemini 4 Neon vs Grok 4.7",
+    "titleZh": "剖面中点火运转的发动机气缸：Fable 5.2、GPT-6.2 Astra、Gemini 4 Neon 与 Grok 4.7 对比",
+    "tools": []
+  },
+  {
+    "id": "2124295323602542976",
+    "url": "https://x.com/anshuc/status/2124295323602542976",
+    "maker": "anshuc",
+    "category": "scene3d",
+    "seconds": 28,
+    "postedAt": "2026-11-22",
+    "title": "An explorable robot city, built by 28 Astra subagents in 6 hours",
+    "titleZh": "可自由探索的机器人城市，由 28 个 Astra 子代理在 6 小时内建成",
+    "tools": []
+  },
+  {
+    "id": "2123268369369514311",
+    "url": "https://x.com/soya_da_yoot/status/2123268369369514311",
+    "maker": "soya_da_yoot",
+    "category": "motion",
+    "seconds": 16,
+    "postedAt": "2026-11-19",
+    "title": "A stylized girl running and jumping in a playable test scene",
+    "titleZh": "可操控测试场景中奔跑跳跃的风格化女孩",
     "tools": []
   },
   {
@@ -22,6 +66,17 @@
     "tools": []
   },
   {
+    "id": "2123788440714260673",
+    "url": "https://x.com/Aprilzz423/status/2123788440714260673",
+    "maker": "Aprilzz423",
+    "category": "scene3d",
+    "seconds": 24,
+    "postedAt": "2026-11-20",
+    "title": "Pocket City, tiny hand-drawn cities measured from OpenStreetMap",
+    "titleZh": "《Pocket City》：依据 OpenStreetMap 测绘的手绘迷你城市",
+    "tools": []
+  },
+  {
     "id": "2122768551354208665",
     "url": "https://x.com/rvm0n_/status/2122768551354208665",
     "maker": "rvm0n_",
@@ -30,6 +85,61 @@
     "postedAt": "2026-11-17",
     "title": "An original classical piano piece, played as falling notes",
     "titleZh": "一首原创古典钢琴曲，以下落音符呈现",
+    "tools": []
+  },
+  {
+    "id": "2124431846859813234",
+    "url": "https://x.com/MengTo/status/2124431846859813234",
+    "maker": "MengTo",
+    "category": "scene3d",
+    "seconds": 33,
+    "postedAt": "2026-11-22",
+    "title": "A three.js desk by a window where a glass UI switches the light to sunset",
+    "titleZh": "窗边书桌的 three.js 场景，玻璃质感界面一键切换到日落光线",
+    "tools": []
+  },
+  {
+    "id": "2123794210721804750",
+    "url": "https://x.com/MengTo/status/2123794210721804750",
+    "maker": "MengTo",
+    "category": "motion",
+    "seconds": 30,
+    "postedAt": "2026-11-20",
+    "title": "A three.js landing page with mossy rocks and fog drifting between sections",
+    "titleZh": "长满青苔的岩石与段落间流动雾气的 three.js 落地页",
+    "tools": []
+  },
+  {
+    "id": "2123051098730799214",
+    "url": "https://x.com/chetaslua/status/2123051098730799214",
+    "maker": "chetaslua",
+    "category": "film",
+    "seconds": 57,
+    "postedAt": "2026-11-18",
+    "title": "Pelicans on bicycles by the sea, a hand-drawn-look short in pure code",
+    "titleZh": "海边骑自行车的鹈鹕，纯代码制作的手绘风短片",
+    "tools": []
+  },
+  {
+    "id": "2123878763624857693",
+    "url": "https://x.com/eliadele/status/2123878763624857693",
+    "maker": "eliadele",
+    "category": "compare",
+    "seconds": 76,
+    "postedAt": "2026-11-20",
+    "title": "A seaplane landing at Bora Bora on OutputBench: Gemini 4 Neon vs Fable 5.2 vs GPT-6.2 Astra vs Opus 5.5",
+    "titleZh": "OutputBench 上降落波拉波拉岛的水上飞机：Gemini 4 Neon、Fable 5.2、GPT-6.2 Astra 与 Opus 5.5 对比",
+    "tools": []
+  },
+  {
+    "id": "2123756243827486822",
+    "url": "https://x.com/mizugame_22/status/2123756243827486822",
+    "maker": "mizugame_22",
+    "category": "compare",
+    "seconds": 13,
+    "postedAt": "2026-11-20",
+    "title": "A rainy night alley in Kyoto in Blender from one line: Fable 5.2 vs GPT-6.2 Astra vs Gemini 4 Neon",
+    "titleZh": "一句话在 Blender 中生成的京都雨夜小巷：Fable 5.2、GPT-6.2 Astra 与 Gemini 4 Neon 对比",
     "tools": []
   },
   {
@@ -44,6 +154,17 @@
     "tools": []
   },
   {
+    "id": "2123250179952484477",
+    "url": "https://x.com/Aprilzz423/status/2123250179952484477",
+    "maker": "Aprilzz423",
+    "category": "scene3d",
+    "seconds": 32,
+    "postedAt": "2026-11-19",
+    "title": "Pocket City at street level: an Amsterdam canal and Shanghai's Anfu Road through the seasons",
+    "titleZh": "《Pocket City》街景版：阿姆斯特丹运河一角与上海安福路，四季可切换",
+    "tools": []
+  },
+  {
     "id": "2122753859281928626",
     "url": "https://x.com/Dimillian/status/2122753859281928626",
     "maker": "Dimillian",
@@ -52,6 +173,17 @@
     "postedAt": "2026-11-17",
     "title": "Paris at 1:1, walkable and drivable, with traffic and 50+ landmarks",
     "titleZh": "1:1 还原的巴黎，可步行可驾车，有交通和 50 多座地标",
+    "tools": []
+  },
+  {
+    "id": "2123889278501495127",
+    "url": "https://x.com/jony_palino/status/2123889278501495127",
+    "maker": "jony_palino",
+    "category": "compare",
+    "seconds": 16,
+    "postedAt": "2026-11-20",
+    "title": "A cyclist riding at sunset in 2D: Gemini 4 Neon vs GPT-6.2 Sol vs DeepSeek V4.1 Flash vs Fable 5.2",
+    "titleZh": "夕阳下骑行的 2D 骑手：Gemini 4 Neon、GPT-6.2 Sol、DeepSeek V4.1 Flash 与 Fable 5.2 对比",
     "tools": []
   },
   {
@@ -77,6 +209,28 @@
     "tools": []
   },
   {
+    "id": "2123240665794687370",
+    "url": "https://x.com/HaileyAILabs/status/2123240665794687370",
+    "maker": "HaileyAILabs",
+    "category": "scene3d",
+    "seconds": 31,
+    "postedAt": "2026-11-19",
+    "title": "A 3D fairy-tale village from one reference image: eight houses and a turning waterwheel",
+    "titleZh": "一张参考图做出的 3D 童话小镇，8 栋房子可走近细看，水车转动",
+    "tools": []
+  },
+  {
+    "id": "2123198696867373386",
+    "url": "https://x.com/JungleSilicon/status/2123198696867373386",
+    "maker": "JungleSilicon",
+    "category": "motion",
+    "seconds": 10,
+    "postedAt": "2026-11-18",
+    "title": "Pixel-art Gaussian splat effects: a creature trailing glowing particles through a portal",
+    "titleZh": "像素风高斯泼溅特效：拖着光粒穿过黑暗传送门的粉色小怪物",
+    "tools": []
+  },
+  {
     "id": "2122816304071803109",
     "url": "https://x.com/givros/status/2122816304071803109",
     "maker": "givros",
@@ -88,6 +242,17 @@
     "tools": []
   },
   {
+    "id": "2123027307560583230",
+    "url": "https://x.com/mark_k/status/2123027307560583230",
+    "maker": "mark_k",
+    "category": "scene3d",
+    "seconds": 14,
+    "postedAt": "2026-11-18",
+    "title": "A photoreal Gothic cathedral facade under a blue sky",
+    "titleZh": "蓝天下的写实哥特式大教堂立面",
+    "tools": []
+  },
+  {
     "id": "2122800268706259244",
     "url": "https://x.com/vib3coded/status/2122800268706259244",
     "maker": "vib3coded",
@@ -96,6 +261,17 @@
     "postedAt": "2026-11-17",
     "title": "A pixel-art jet game in one HTML file, 36 minutes and $5.31",
     "titleZh": "单个 HTML 文件的像素风喷气机游戏，耗时 36 分钟、花费 5.31 美元",
+    "tools": []
+  },
+  {
+    "id": "2123859318936064193",
+    "url": "https://x.com/neviannn/status/2123859318936064193",
+    "maker": "neviannn",
+    "category": "scene3d",
+    "seconds": 57,
+    "postedAt": "2026-11-20",
+    "title": "A moonlit forest creek with a cabin on the hill, explorable in the browser",
+    "titleZh": "月光下的林间小溪与山坡小屋，可在浏览器中自由探索",
     "tools": []
   },
   {
@@ -129,6 +305,17 @@
     "postedAt": "2026-11-18",
     "title": "A seabed submarine in three.js: Fable 5.2 at 242 KB vs GPT-6.2 Astra at 32.9 MB",
     "titleZh": "three.js 海底潜艇：Fable 5.2 仅 242 KB，GPT-6.2 Astra 达 32.9 MB",
+    "tools": []
+  },
+  {
+    "id": "2124209140700533065",
+    "url": "https://x.com/javpixel_art/status/2124209140700533065",
+    "maker": "javpixel_art",
+    "category": "scene3d",
+    "seconds": 28,
+    "postedAt": "2026-11-21",
+    "title": "The Hall, a walk down a dark sci-fi corridor, all procedural geometry in three.js",
+    "titleZh": "《The Hall》：漫步黑暗科幻走廊，全部由 three.js 程序化几何构建",
     "tools": []
   },
   {
@@ -176,6 +363,17 @@
     "tools": []
   },
   {
+    "id": "2124404063802429838",
+    "url": "https://x.com/givros/status/2124404063802429838",
+    "maker": "givros",
+    "category": "scene3d",
+    "seconds": 72,
+    "postedAt": "2026-11-22",
+    "title": "Valley of the Aqueduct, a walk past vineyards and a Roman aqueduct, made with Sol in 44 minutes",
+    "titleZh": "《Valley of the Aqueduct》：漫步葡萄园与罗马式引水渡槽，Sol 用时 44 分钟",
+    "tools": []
+  },
+  {
     "id": "2122806350543774075",
     "url": "https://x.com/MrTacticalX/status/2122806350543774075",
     "maker": "MrTacticalX",
@@ -187,6 +385,28 @@
     "tools": []
   },
   {
+    "id": "2123776799188672521",
+    "url": "https://x.com/gokayfem/status/2123776799188672521",
+    "maker": "gokayfem",
+    "category": "motion",
+    "seconds": 5,
+    "postedAt": "2026-11-20",
+    "title": "A mountain lake at sunrise with mist and pines, drawn in a shader",
+    "titleZh": "薄雾与松林环绕的日出高山湖，用着色器绘制",
+    "tools": []
+  },
+  {
+    "id": "2123306526878437857",
+    "url": "https://x.com/givros/status/2123306526878437857",
+    "maker": "givros",
+    "category": "scene3d",
+    "seconds": 88,
+    "postedAt": "2026-11-19",
+    "title": "Temple of the Canopy, an FPS built in 4 h 54 min with Blender, Three.js and Unreal Engine 5.9",
+    "titleZh": "《Temple of the Canopy》：用 Blender、Three.js 与 Unreal Engine 5.9 在 4 小时 54 分内做出的 FPS",
+    "tools": []
+  },
+  {
     "id": "2122760193226449212",
     "url": "https://x.com/lepadphone/status/2122760193226449212",
     "maker": "lepadphone",
@@ -195,6 +415,61 @@
     "postedAt": "2026-11-17",
     "title": "A 3D web page of a cloaked girl on a mirror lake, 13 min 32 s at High",
     "titleZh": "斗篷少女立于镜面湖上的 3D 网页，High 强度耗时 13 分 32 秒",
+    "tools": []
+  },
+  {
+    "id": "2123305001804333337",
+    "url": "https://x.com/lemomo_ai/status/2123305001804333337",
+    "maker": "lemomo_ai",
+    "category": "compare",
+    "seconds": 20,
+    "postedAt": "2026-11-19",
+    "title": "A strawberry in a melting ice cube, all on High: GPT-6.2 Astra vs Gemini 4 Neon vs Fable 5.2 vs Opus 5.5",
+    "titleZh": "冰块里的草莓慢慢融化，均为 High：GPT-6.2 Astra、Gemini 4 Neon、Fable 5.2 与 Opus 5.5 对比",
+    "tools": []
+  },
+  {
+    "id": "2123753043971784997",
+    "url": "https://x.com/RicardoJrkxl/status/2123753043971784997",
+    "maker": "RicardoJrkxl",
+    "category": "scene3d",
+    "seconds": 42,
+    "postedAt": "2026-11-20",
+    "title": "A tactical auto-battler on a lunar campaign map, made in under an hour",
+    "titleZh": "月球战役地图上的战术自走棋游戏，不到 1 小时做成",
+    "tools": []
+  },
+  {
+    "id": "2123695711120420988",
+    "url": "https://x.com/BeamManP/status/2123695711120420988",
+    "maker": "BeamManP",
+    "category": "scene3d",
+    "seconds": 25,
+    "postedAt": "2026-11-20",
+    "title": "A sprite-stacked pixel island where little ships leave ripples",
+    "titleZh": "用堆叠精灵制作的像素小岛，小船划出涟漪",
+    "tools": []
+  },
+  {
+    "id": "2122972313989845173",
+    "url": "https://x.com/N1n3VASthR33H/status/2122972313989845173",
+    "maker": "N1n3VASthR33H",
+    "category": "compare",
+    "seconds": 8,
+    "postedAt": "2026-11-18",
+    "title": "A lakeside cabin with a dock and a red boat: GPT-6 Astra vs GPT-6.2 Astra",
+    "titleZh": "带码头和红船的湖畔小屋：GPT-6 Astra 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
+    "id": "2123083869562003745",
+    "url": "https://x.com/gokayfem/status/2123083869562003745",
+    "maker": "gokayfem",
+    "category": "motion",
+    "seconds": 28,
+    "postedAt": "2026-11-18",
+    "title": "Sunset Ride, a shader film of a cyclist among blue monoliths in 10 KB of code",
+    "titleZh": "《Sunset Ride》：骑车人驶向蓝色巨石的着色器短片，仅 10 KB 代码",
     "tools": []
   },
   {
@@ -220,6 +495,17 @@
     "tools": []
   },
   {
+    "id": "2123185990923874325",
+    "url": "https://x.com/nicochristie/status/2123185990923874325",
+    "maker": "nicochristie",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-18",
+    "title": "Draw With Me, a seaside cherry-blossom scene painted stroke by stroke: Fable 5.2 vs GPT-6.2 Astra",
+    "titleZh": "《Draw With Me》逐笔绘出海边樱花风景：Fable 5.2 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
     "id": "2122767673570607401",
     "url": "https://x.com/aug5thmusic/status/2122767673570607401",
     "maker": "aug5thmusic",
@@ -231,6 +517,39 @@
     "tools": []
   },
   {
+    "id": "2124897056280219998",
+    "url": "https://x.com/ZryMiller/status/2124897056280219998",
+    "maker": "ZryMiller",
+    "category": "compare",
+    "seconds": 20,
+    "postedAt": "2026-11-23",
+    "title": "A leaf falling through the four seasons: GPT-6.2 Astra at $10.15 vs Gemini 4 Neon at $15.36",
+    "titleZh": "飘落穿越四季的一片叶子：GPT-6.2 Astra 花费 10.15 美元，Gemini 4 Neon 花费 15.36 美元",
+    "tools": []
+  },
+  {
+    "id": "2124854982235373664",
+    "url": "https://x.com/diegocabezas01/status/2124854982235373664",
+    "maker": "diegocabezas01",
+    "category": "scene3d",
+    "seconds": 46,
+    "postedAt": "2026-11-23",
+    "title": "A window seat on a train crossing the Swiss Alps, all code in one HTML file",
+    "titleZh": "穿越瑞士阿尔卑斯山的火车靠窗座位，纯代码单个 HTML 文件",
+    "tools": []
+  },
+  {
+    "id": "2123475293575037089",
+    "url": "https://x.com/vib3coded/status/2123475293575037089",
+    "maker": "vib3coded",
+    "category": "scene3d",
+    "seconds": 18,
+    "postedAt": "2026-11-19",
+    "title": "A Three.js game running across a mirror sea under a solar eclipse, built for $18.21",
+    "titleZh": "在映着日食的镜面海上奔跑的 Three.js 游戏，花费 18.21 美元",
+    "tools": []
+  },
+  {
     "id": "2122793788087193650",
     "url": "https://x.com/rubenssoto_ai/status/2122793788087193650",
     "maker": "rubenssoto_ai",
@@ -239,6 +558,127 @@
     "postedAt": "2026-11-17",
     "title": "An alpine meadow with a passing train: GPT-6.2 Astra vs Opus 5.5",
     "titleZh": "火车驶过的高山草甸：GPT-6.2 Astra 对比 Opus 5.5",
+    "tools": []
+  },
+  {
+    "id": "2123079701384269871",
+    "url": "https://x.com/MengTo/status/2123079701384269871",
+    "maker": "MengTo",
+    "category": "scene3d",
+    "seconds": 39,
+    "postedAt": "2026-11-18",
+    "title": "three.js and Blender web scenes: a lantern-lit room, a pagoda stairway and misty falls",
+    "titleZh": "three.js 与 Blender 网页场景：灯笼照亮的室内、通往宝塔的石阶与雾中瀑布",
+    "tools": []
+  },
+  {
+    "id": "2124245249786855836",
+    "url": "https://x.com/vib3coded/status/2124245249786855836",
+    "maker": "vib3coded",
+    "category": "compare",
+    "seconds": 16,
+    "postedAt": "2026-11-21",
+    "title": "A flight sim over low-poly mountains: GPT-6.2 Astra at $5.31 vs Fable 5.2 at $22.78",
+    "titleZh": "低多边形群山上空的飞行模拟：GPT-6.2 Astra 花费 5.31 美元，Fable 5.2 花费 22.78 美元",
+    "tools": []
+  },
+  {
+    "id": "2124612292490752267",
+    "url": "https://x.com/vib3coded/status/2124612292490752267",
+    "maker": "vib3coded",
+    "category": "compare",
+    "seconds": 17,
+    "postedAt": "2026-11-22",
+    "title": "A koi pond from above: GPT-6.2 Astra in 28 min for $8.71 vs Fable 5.2 in 16 min for $12.44",
+    "titleZh": "俯瞰锦鲤池：GPT-6.2 Astra 耗时 28 分钟、花费 8.71 美元，Fable 5.2 耗时 16 分钟、花费 12.44 美元",
+    "tools": []
+  },
+  {
+    "id": "2123133158124036295",
+    "url": "https://x.com/givros/status/2123133158124036295",
+    "maker": "givros",
+    "category": "scene3d",
+    "seconds": 89,
+    "postedAt": "2026-11-18",
+    "title": "Gullwatch Isle, a walk from a timbered village to castle ruins at sunset, in Blender and three.js",
+    "titleZh": "《Gullwatch Isle》：漫步木构村庄、崖边小径与日落城堡废墟，Blender + three.js",
+    "tools": []
+  },
+  {
+    "id": "2123256864125202670",
+    "url": "https://x.com/emollick/status/2123256864125202670",
+    "maker": "emollick",
+    "category": "scene3d",
+    "seconds": 20,
+    "postedAt": "2026-11-19",
+    "title": "A procedural shader of a drowned neo-Gothic city, waves crashing between spires",
+    "titleZh": "程序化生成的沉没新哥特城市着色器，海浪在尖塔间翻涌",
+    "tools": []
+  },
+  {
+    "id": "2123891957529510012",
+    "url": "https://x.com/DanielZambrini/status/2123891957529510012",
+    "maker": "DanielZambrini",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-20",
+    "title": "Life in the Eyes of a Squirrel, a 30-second code-only film: Gemini 4 Neon vs GPT-6.2 Astra vs Fable 5.2",
+    "titleZh": "《Life in the Eyes of a Squirrel》30 秒纯代码短片：Gemini 4 Neon、GPT-6.2 Astra 与 Fable 5.2 对比",
+    "tools": []
+  },
+  {
+    "id": "2123114460470747220",
+    "url": "https://x.com/Fomsky_Wei/status/2123114460470747220",
+    "maker": "Fomsky_Wei",
+    "category": "scene3d",
+    "seconds": 12,
+    "postedAt": "2026-11-18",
+    "title": "A photoreal lakeside cabin with a wooden dock and rowboat, in three.js",
+    "titleZh": "three.js 打造的写实湖畔小屋，镜头沿木码头滑过小船",
+    "tools": []
+  },
+  {
+    "id": "2123406931075441111",
+    "url": "https://x.com/ivanainai/status/2123406931075441111",
+    "maker": "ivanainai",
+    "category": "compare",
+    "seconds": 26,
+    "postedAt": "2026-11-19",
+    "title": "A cutaway jet engine: Gemini 4 Neon vs GPT-6.2 Astra",
+    "titleZh": "喷气发动机剖面：Gemini 4 Neon 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
+    "id": "2123815633347543159",
+    "url": "https://x.com/EnvolDev/status/2123815633347543159",
+    "maker": "EnvolDev",
+    "category": "compare",
+    "seconds": 25,
+    "postedAt": "2026-11-20",
+    "title": "A winter castle in one shot: GPT-6.2 Astra in 54 min for $11.15 vs Fable 5.2 in 2 h 57 min for $131.31",
+    "titleZh": "一次生成的冬日城堡：GPT-6.2 Astra 耗时 54 分钟、花费 11.15 美元，Fable 5.2 耗时 2 小时 57 分、花费 131.31 美元",
+    "tools": []
+  },
+  {
+    "id": "2122995414878269633",
+    "url": "https://x.com/ryoma_nakajima/status/2122995414878269633",
+    "maker": "ryoma_nakajima",
+    "category": "motion",
+    "seconds": 26,
+    "postedAt": "2026-11-18",
+    "title": "A paper crane folding itself on a wooden table",
+    "titleZh": "在木桌上自己折成的纸鹤",
+    "tools": []
+  },
+  {
+    "id": "2123797090274885924",
+    "url": "https://x.com/TokenGremlin/status/2123797090274885924",
+    "maker": "TokenGremlin",
+    "category": "scene3d",
+    "seconds": 16,
+    "postedAt": "2026-11-20",
+    "title": "Floating balls bobbing on an ocean simulation, from a reference image, in one HTML file",
+    "titleZh": "漂浮小球随波起伏的海洋模拟，依参考图制作，单个 HTML 文件",
     "tools": []
   },
   {
@@ -297,6 +737,160 @@
     "tools": []
   },
   {
+    "id": "2124186601118990667",
+    "url": "https://x.com/TokenGremlin/status/2124186601118990667",
+    "maker": "TokenGremlin",
+    "category": "scene3d",
+    "seconds": 19,
+    "postedAt": "2026-11-21",
+    "title": "3D village assets with thatched huts and villagers, modeled by Sol in Blender and animated by Astra",
+    "titleZh": "茅草屋与村民等 3D 村庄素材，Sol 在 Blender 中建模、Astra 制作动画",
+    "tools": []
+  },
+  {
+    "id": "2124460137976942676",
+    "url": "https://x.com/vib3coded/status/2124460137976942676",
+    "maker": "vib3coded",
+    "category": "scene3d",
+    "seconds": 18,
+    "postedAt": "2026-11-22",
+    "title": "A stormy sea with bobbing buoys, made in 15 minutes for $11.87",
+    "titleZh": "浮标随波起伏的暴风雨海面，15 分钟完成、花费 11.87 美元",
+    "tools": []
+  },
+  {
+    "id": "2123228351984980040",
+    "url": "https://x.com/ZryMiller/status/2123228351984980040",
+    "maker": "ZryMiller",
+    "category": "compare",
+    "seconds": 12,
+    "postedAt": "2026-11-19",
+    "title": "An octopus sailor on a unicycle: GPT-6.2 Astra in 21 min for $2.52 vs Gemini 4 Neon in 41 min for $4.02",
+    "titleZh": "骑独轮车的章鱼水手：GPT-6.2 Astra 用时 21 分钟、花费 2.52 美元，对比 Gemini 4 Neon 用时 41 分钟、花费 4.02 美元",
+    "tools": []
+  },
+  {
+    "id": "2123752414679334944",
+    "url": "https://x.com/itssotsot/status/2123752414679334944",
+    "maker": "itssotsot",
+    "category": "scene3d",
+    "seconds": 38,
+    "postedAt": "2026-11-20",
+    "title": "A spider's point of view crawling across a room, legs in frame",
+    "titleZh": "蜘蛛视角爬过房间，画面中可见蛛腿",
+    "tools": []
+  },
+  {
+    "id": "2123809517758713977",
+    "url": "https://x.com/ryanflorence/status/2123809517758713977",
+    "maker": "ryanflorence",
+    "category": "motion",
+    "seconds": 12,
+    "postedAt": "2026-11-20",
+    "title": "A stylized sword-and-shield girl with combat animations",
+    "titleZh": "持剑盾的风格化少女角色与战斗动画",
+    "tools": []
+  },
+  {
+    "id": "2123973599488798865",
+    "url": "https://x.com/TokenGremlin/status/2123973599488798865",
+    "maker": "TokenGremlin",
+    "category": "scene3d",
+    "seconds": 85,
+    "postedAt": "2026-11-21",
+    "title": "An ocean survival game with storms and a leviathan, Blender assets in one three.js HTML file",
+    "titleZh": "有风暴和海怪的海上求生游戏，Blender 素材装进单个 three.js HTML 文件",
+    "tools": []
+  },
+  {
+    "id": "2123164754898514354",
+    "url": "https://x.com/imnotchalk/status/2123164754898514354",
+    "maker": "imnotchalk",
+    "category": "scene3d",
+    "seconds": 60,
+    "postedAt": "2026-11-18",
+    "title": "Vancouver's Science World at night with the SkyTrain, in Blender and three.js",
+    "titleZh": "夜色中的温哥华科学世界与 SkyTrain 轻轨，Blender + three.js",
+    "tools": []
+  },
+  {
+    "id": "2123712489443713478",
+    "url": "https://x.com/Da7_Tech/status/2123712489443713478",
+    "maker": "Da7_Tech",
+    "category": "compare",
+    "seconds": 29,
+    "postedAt": "2026-11-20",
+    "title": "A tall ship sailing at sunset: Fable 5.2 vs GPT-6.2 Astra vs Gemini 4 Neon",
+    "titleZh": "夕阳下航行的高桅帆船：Fable 5.2、GPT-6.2 Astra 与 Gemini 4 Neon 对比",
+    "tools": []
+  },
+  {
+    "id": "2123045457958191393",
+    "url": "https://x.com/p_rabtsevich/status/2123045457958191393",
+    "maker": "p_rabtsevich",
+    "category": "motion",
+    "seconds": 10,
+    "postedAt": "2026-11-18",
+    "title": "A game's nebula shader, before and after a GPT-6.2 Astra pass",
+    "titleZh": "游戏星云着色器经 GPT-6.2 Astra 改进的前后对比",
+    "tools": []
+  },
+  {
+    "id": "2123379979119444471",
+    "url": "https://x.com/kinderlayer/status/2123379979119444471",
+    "maker": "kinderlayer",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-19",
+    "title": "A bear rising from a rug into the snow: Fable 5.2 vs GPT-6.2 Astra",
+    "titleZh": "从地毯中起身走进雪地的熊：Fable 5.2 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
+    "id": "2124353151646200097",
+    "url": "https://x.com/teddyaisi/status/2124353151646200097",
+    "maker": "teddyaisi",
+    "category": "compare",
+    "seconds": 20,
+    "postedAt": "2026-11-22",
+    "title": "A 20-second walk through a Baroque library in three.js: GPT-6.2 Astra vs Gemini 4 Neon",
+    "titleZh": "three.js 中 20 秒漫步巴洛克图书馆：GPT-6.2 Astra 对比 Gemini 4 Neon",
+    "tools": []
+  },
+  {
+    "id": "2123521701891748223",
+    "url": "https://x.com/jony_palino/status/2123521701891748223",
+    "maker": "jony_palino",
+    "category": "compare",
+    "seconds": 16,
+    "postedAt": "2026-11-19",
+    "title": "A galloping horse: GPT-6.2 Astra vs GPT-6.2 Sol vs Gemini 4 Neon vs Fable 5.2",
+    "titleZh": "奔驰的骏马：GPT-6.2 Astra、GPT-6.2 Sol、Gemini 4 Neon 与 Fable 5.2 对比",
+    "tools": []
+  },
+  {
+    "id": "2124171631320875451",
+    "url": "https://x.com/TokenGremlin/status/2124171631320875451",
+    "maker": "TokenGremlin",
+    "category": "explainer",
+    "seconds": 44,
+    "postedAt": "2026-11-21",
+    "title": "A tank truck sloshing simulation with a fluid heatmap, modeled in Blender",
+    "titleZh": "罐车液体晃动模拟，带流体热力图，Blender 建模",
+    "tools": []
+  },
+  {
+    "id": "2123040525997719797",
+    "url": "https://x.com/diegocabezas01/status/2123040525997719797",
+    "maker": "diegocabezas01",
+    "category": "scene3d",
+    "seconds": 88,
+    "postedAt": "2026-11-18",
+    "title": "Tokyo Nocturne, a walk down a rainy neon alley at night, GPT-6.2 Astra Ultra",
+    "titleZh": "《Tokyo Nocturne》：漫步雨夜霓虹东京小巷，GPT-6.2 Astra Ultra",
+    "tools": []
+  },
+  {
     "id": "2122794828266377538",
     "url": "https://x.com/camperaigg/status/2122794828266377538",
     "maker": "camperaigg",
@@ -305,6 +899,50 @@
     "postedAt": "2026-11-17",
     "title": "An explosion with fire and sound, all in code: GPT-6.2 Sol vs Opus 5.5 on Xhigh",
     "titleZh": "火光与声响全由代码生成的爆炸：GPT-6.2 Sol 对比 Opus 5.5，均为 Xhigh",
+    "tools": []
+  },
+  {
+    "id": "2122977741993660867",
+    "url": "https://x.com/PawelJLisowski/status/2122977741993660867",
+    "maker": "PawelJLisowski",
+    "category": "scene3d",
+    "seconds": 10,
+    "postedAt": "2026-11-18",
+    "title": "A lighthouse in a violent night storm, one Python script in Blender: GPT-6.2 Astra's version",
+    "titleZh": "夜间暴风雨中的礁岸灯塔，单个 Python 脚本在 Blender 中生成，GPT-6.2 Astra 版本",
+    "tools": []
+  },
+  {
+    "id": "2123518721981374468",
+    "url": "https://x.com/0xShoopy/status/2123518721981374468",
+    "maker": "0xShoopy",
+    "category": "compare",
+    "seconds": 20,
+    "postedAt": "2026-11-19",
+    "title": "A floating-island 3D app in one shot: GPT-6.2 Astra at $1.10 vs Fable 5.2 at $9.77 vs Opus 5.5 with a Fable advisor at $5.94",
+    "titleZh": "一次生成的浮空岛 3D 应用：GPT-6.2 Astra 1.10 美元、Fable 5.2 9.77 美元与 Opus 5.5（Fable 顾问）5.94 美元对比",
+    "tools": []
+  },
+  {
+    "id": "2124238419140444661",
+    "url": "https://x.com/EnvolDev/status/2124238419140444661",
+    "maker": "EnvolDev",
+    "category": "compare",
+    "seconds": 25,
+    "postedAt": "2026-11-21",
+    "title": "A seaplane by a fjord waterfall from the Alpine Gold prompt: GPT-6.2 Astra vs Fable 5.2 vs Gemini 4 Neon vs Gemini 4 Argon",
+    "titleZh": "同一 Alpine Gold 提示的峡湾瀑布水上飞机：GPT-6.2 Astra、Fable 5.2、Gemini 4 Neon 与 Gemini 4 Argon 对比",
+    "tools": []
+  },
+  {
+    "id": "2124125928640885180",
+    "url": "https://x.com/diegocabezas01/status/2124125928640885180",
+    "maker": "diegocabezas01",
+    "category": "scene3d",
+    "seconds": 48,
+    "postedAt": "2026-11-21",
+    "title": "A wildfire along a mountain ridge at night, seen from the valley, in one HTML file",
+    "titleZh": "从山谷仰望夜间沿山脊燃烧的山火，单个 HTML 文件",
     "tools": []
   },
   {
@@ -330,6 +968,105 @@
     "tools": []
   },
   {
+    "id": "2123160875611623711",
+    "url": "https://x.com/ivanainai/status/2123160875611623711",
+    "maker": "ivanainai",
+    "category": "compare",
+    "seconds": 35,
+    "postedAt": "2026-11-18",
+    "title": "A Gothic cathedral built up step by step: Fable 5.2 vs GPT-6.2 Astra",
+    "titleZh": "一步步搭建起来的哥特式大教堂：Fable 5.2 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
+    "id": "2123811456525459754",
+    "url": "https://x.com/Dav338876/status/2123811456525459754",
+    "maker": "Dav338876",
+    "category": "compare",
+    "seconds": 16,
+    "postedAt": "2026-11-20",
+    "title": "A stylized lighthouse coast: GPT-6.2 Astra in 31 min 46 s vs Gemini 4 Neon in 16 min 28 s",
+    "titleZh": "风格化的灯塔海岸：GPT-6.2 Astra 用时 31 分 46 秒，Gemini 4 Neon 用时 16 分 28 秒",
+    "tools": []
+  },
+  {
+    "id": "2123707803932274901",
+    "url": "https://x.com/ouchi/status/2123707803932274901",
+    "maker": "ouchi",
+    "category": "scene3d",
+    "seconds": 20,
+    "postedAt": "2026-11-20",
+    "title": "A cute robot turned from an image into a 3D model that walks in the browser",
+    "titleZh": "从图片生成 3D 模型的可爱机器人，可在浏览器中走动",
+    "tools": []
+  },
+  {
+    "id": "2123065728697778446",
+    "url": "https://x.com/Dimillian/status/2123065728697778446",
+    "maker": "Dimillian",
+    "category": "scene3d",
+    "seconds": 30,
+    "postedAt": "2026-11-18",
+    "title": "One forest at dusk in three styles: photoreal, storybook and liquid glass",
+    "titleZh": "同一片黄昏森林的三种风格：写实、绘本与液态玻璃",
+    "tools": []
+  },
+  {
+    "id": "2123837890182414567",
+    "url": "https://x.com/semichenkko/status/2123837890182414567",
+    "maker": "semichenkko",
+    "category": "scene3d",
+    "seconds": 24,
+    "postedAt": "2026-11-20",
+    "title": "A floating New York diorama growing piece by piece in sprite stacking",
+    "titleZh": "用堆叠精灵逐步搭起的漂浮纽约微缩景观",
+    "tools": []
+  },
+  {
+    "id": "2124999025505993078",
+    "url": "https://x.com/vib3coded/status/2124999025505993078",
+    "maker": "vib3coded",
+    "category": "compare",
+    "seconds": 18,
+    "postedAt": "2026-11-23",
+    "title": "Bloom Pool, flowers floating on a pool: GPT-6.2 Astra in 25 min vs Fable 5.2 in 1 h 12 min",
+    "titleZh": "《Bloom Pool》水面漂花的泳池：GPT-6.2 Astra 用时 25 分钟，Fable 5.2 用时 1 小时 12 分",
+    "tools": []
+  },
+  {
+    "id": "2123938048996245591",
+    "url": "https://x.com/HaileyAILabs/status/2123938048996245591",
+    "maker": "HaileyAILabs",
+    "category": "scene3d",
+    "seconds": 24,
+    "postedAt": "2026-11-21",
+    "title": "Feng Mian Town, a Miyazaki-style 3D dream town in pure code, refined over 7 versions",
+    "titleZh": "《风眠镇》：纯代码打造的宫崎骏风 3D 梦幻小镇，前后打磨 7 个版本",
+    "tools": []
+  },
+  {
+    "id": "2123202081259495833",
+    "url": "https://x.com/Layton_Gott/status/2123202081259495833",
+    "maker": "Layton_Gott",
+    "category": "compare",
+    "seconds": 120,
+    "postedAt": "2026-11-18",
+    "title": "A WWII naval battle at sunset: GPT-6.2 Astra at about $68 in 3 h 49 min vs Fable 5.2 at about $111 in 6 h 19 min",
+    "titleZh": "日落时分的二战海战：GPT-6.2 Astra 约 68 美元、3 小时 49 分，对比 Fable 5.2 约 111 美元、6 小时 19 分",
+    "tools": []
+  },
+  {
+    "id": "2123605250825486383",
+    "url": "https://x.com/rockeymen/status/2123605250825486383",
+    "maker": "rockeymen",
+    "category": "film",
+    "seconds": 20,
+    "postedAt": "2026-11-20",
+    "title": "A kitten's adventure in a room, a 3D scene rendered in code and open-sourced under MIT",
+    "titleZh": "小猫在房间里的冒险，3D 场景加代码渲染，代码以 MIT 协议开源",
+    "tools": []
+  },
+  {
     "id": "2122762815757017410",
     "url": "https://x.com/Angaisb_/status/2122762815757017410",
     "maker": "Angaisb_",
@@ -338,6 +1075,28 @@
     "postedAt": "2026-11-17",
     "title": "A coin passing between two phones in SVG: Gemini 4 Carbon vs GPT-6.2 Astra",
     "titleZh": "金币在两部手机间飞过的 SVG 动画：Gemini 4 Carbon 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
+    "id": "2123085518418182199",
+    "url": "https://x.com/MiaAI_lab/status/2123085518418182199",
+    "maker": "MiaAI_lab",
+    "category": "compare",
+    "seconds": 29,
+    "postedAt": "2026-11-18",
+    "title": "Glossy gummy bears falling and squishing: Gemini 4 Carbon vs GPT-6.2 Astra",
+    "titleZh": "掉落后被压扁的亮晶晶小熊软糖：Gemini 4 Carbon 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
+    "id": "2124166516476461488",
+    "url": "https://x.com/dingchilling/status/2124166516476461488",
+    "maker": "dingchilling",
+    "category": "film",
+    "seconds": 27,
+    "postedAt": "2026-11-21",
+    "title": "Little cartoon explorers crossing a desert to a treasure chest, made in Blender",
+    "titleZh": "卡通小探险家穿越沙漠寻得宝箱，Blender 制作",
     "tools": []
   },
   {
@@ -352,6 +1111,17 @@
     "tools": []
   },
   {
+    "id": "2124190810900140286",
+    "url": "https://x.com/teddyaisi/status/2124190810900140286",
+    "maker": "teddyaisi",
+    "category": "compare",
+    "seconds": 20,
+    "postedAt": "2026-11-21",
+    "title": "A sunset gondola ride under a Venetian bridge in three.js: GPT-6.2 Astra vs Gemini 4 Neon",
+    "titleZh": "three.js 中夕阳下乘贡多拉穿过威尼斯石桥：GPT-6.2 Astra 对比 Gemini 4 Neon",
+    "tools": []
+  },
+  {
     "id": "2122772868270579949",
     "url": "https://x.com/gabrielchua/status/2122772868270579949",
     "maker": "gabrielchua",
@@ -360,6 +1130,61 @@
     "postedAt": "2026-11-17",
     "title": "A short video on how the Singapore replica was made",
     "titleZh": "讲解新加坡复刻模型如何做成的短视频",
+    "tools": []
+  },
+  {
+    "id": "2123833392386957812",
+    "url": "https://x.com/LuminaBench/status/2123833392386957812",
+    "maker": "LuminaBench",
+    "category": "scene3d",
+    "seconds": 102,
+    "postedAt": "2026-11-20",
+    "title": "A fully flyable 3D seaplane over a lake in the Alaskan mountains",
+    "titleZh": "可完整操控飞行的 3D 水上飞机，飞越阿拉斯加群山中的湖泊",
+    "tools": []
+  },
+  {
+    "id": "2123175702719824292",
+    "url": "https://x.com/petergostev/status/2123175702719824292",
+    "maker": "petergostev",
+    "category": "scene3d",
+    "seconds": 116,
+    "postedAt": "2026-11-18",
+    "title": "Ancient Rome to fly over, down into the Colosseum with its gladiators",
+    "titleZh": "可飞越俯瞰的古罗马，一路降入斗兽场看角斗士",
+    "tools": []
+  },
+  {
+    "id": "2123105267139383530",
+    "url": "https://x.com/choopyplug1/status/2123105267139383530",
+    "maker": "choopyplug1",
+    "category": "compare",
+    "seconds": 24,
+    "postedAt": "2026-11-18",
+    "title": "A lighthouse by the sea at night in four shots: GPT-6.2 Astra at $5.54 vs Fable 5.2 at $18.40 vs Opus 5.5 at $21.95",
+    "titleZh": "夜晚海边灯塔的四个镜头：GPT-6.2 Astra 约 5.54 美元、Fable 5.2 18.40 美元与 Opus 5.5 21.95 美元对比",
+    "tools": []
+  },
+  {
+    "id": "2123030965777821985",
+    "url": "https://x.com/alohaproxy/status/2123030965777821985",
+    "maker": "alohaproxy",
+    "category": "compare",
+    "seconds": 48,
+    "postedAt": "2026-11-18",
+    "title": "A sci-fi mech assembling itself and taking off in Three.js: GPT-6.2 Astra vs GPT-6.2 Sol",
+    "titleZh": "自行组装并升空的科幻机甲，Three.js：GPT-6.2 Astra 对比 GPT-6.2 Sol",
+    "tools": []
+  },
+  {
+    "id": "2123609687484698714",
+    "url": "https://x.com/venturetwins/status/2123609687484698714",
+    "maker": "venturetwins",
+    "category": "scene3d",
+    "seconds": 49,
+    "postedAt": "2026-11-20",
+    "title": "A walkable Louvre, from the grand staircase to the Mona Lisa room, with a card for every painting",
+    "titleZh": "可漫步的卢浮宫复刻，从大阶梯到《蒙娜丽莎》展厅，每幅画都有介绍卡",
     "tools": []
   },
   {
@@ -374,6 +1199,94 @@
     "tools": []
   },
   {
+    "id": "2124806236696891466",
+    "url": "https://x.com/csaba_kissi/status/2124806236696891466",
+    "maker": "csaba_kissi",
+    "category": "explainer",
+    "seconds": 92,
+    "postedAt": "2026-11-23",
+    "title": "Cycle Lab, an interactive heat pump explainer with a 3D unit and narration",
+    "titleZh": "《Cycle Lab》：互动式热泵讲解，含 3D 机组和旁白",
+    "tools": []
+  },
+  {
+    "id": "2124130353480626223",
+    "url": "https://x.com/neviannn/status/2124130353480626223",
+    "maker": "neviannn",
+    "category": "scene3d",
+    "seconds": 18,
+    "postedAt": "2026-11-21",
+    "title": "A moonlit swamp with cypress trees and a drifting boat, explorable in the browser",
+    "titleZh": "柏树林立、小船漂荡的月夜沼泽，可在浏览器中自由探索",
+    "tools": []
+  },
+  {
+    "id": "2123787482747764918",
+    "url": "https://x.com/_satyam_ai/status/2123787482747764918",
+    "maker": "_satyam_ai",
+    "category": "scene3d",
+    "seconds": 69,
+    "postedAt": "2026-11-20",
+    "title": "A racing game on WebGPU in Chrome, on a from-scratch engine",
+    "titleZh": "在 Chrome 中以 WebGPU 运行的赛车游戏，引擎从零自研",
+    "tools": []
+  },
+  {
+    "id": "2124335094819119426",
+    "url": "https://x.com/rubenssoto_ai/status/2124335094819119426",
+    "maker": "rubenssoto_ai",
+    "category": "compare",
+    "seconds": 40,
+    "postedAt": "2026-11-22",
+    "title": "A red formula race car: Opus 5.5 vs Gemini 4 Neon vs GPT-6.2 Astra",
+    "titleZh": "红色方程式赛车：Opus 5.5、Gemini 4 Neon 与 GPT-6.2 Astra 对比",
+    "tools": []
+  },
+  {
+    "id": "2122989369783206203",
+    "url": "https://x.com/Avenoxai/status/2122989369783206203",
+    "maker": "Avenoxai",
+    "category": "scene3d",
+    "seconds": 36,
+    "postedAt": "2026-11-18",
+    "title": "A spaceship mining in Saturn's rings, built in Blender",
+    "titleZh": "在土星环中采矿的飞船，Blender 制作",
+    "tools": []
+  },
+  {
+    "id": "2122978121444184315",
+    "url": "https://x.com/lemomo_ai/status/2122978121444184315",
+    "maker": "lemomo_ai",
+    "category": "scene3d",
+    "seconds": 20,
+    "postedAt": "2026-11-18",
+    "title": "Galaxy in the Sea, 10,000 sardines scattering and re-forming around a predator, in hand-written code",
+    "titleZh": "《海里的银河》：一万条沙丁鱼遇捕食者炸开又聚成鱼球，纯手写代码",
+    "tools": []
+  },
+  {
+    "id": "2124923926522614078",
+    "url": "https://x.com/RezAIT00/status/2124923926522614078",
+    "maker": "RezAIT00",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-23",
+    "title": "A luxury watch breaking into its parts: Gemini 4 Neon at about $7.26 vs GPT-6.2 Sol at about $1.50",
+    "titleZh": "豪华腕表拆解成零件：Gemini 4 Neon 约 7.26 美元，GPT-6.2 Sol 约 1.50 美元",
+    "tools": []
+  },
+  {
+    "id": "2123455282806456524",
+    "url": "https://x.com/notjazii/status/2123455282806456524",
+    "maker": "notjazii",
+    "category": "film",
+    "seconds": 82,
+    "postedAt": "2026-11-19",
+    "title": "Last Train to Saturn, a train ride toward Saturn made in Blender and rendered in Unreal Engine",
+    "titleZh": "《Last Train to Saturn》：驶向土星的列车，在 Blender 中制作、用 Unreal Engine 渲染",
+    "tools": []
+  },
+  {
     "id": "2122759047107444948",
     "url": "https://x.com/Angaisb_/status/2122759047107444948",
     "maker": "Angaisb_",
@@ -382,6 +1295,39 @@
     "postedAt": "2026-11-17",
     "title": "All the Swifts Return, a song over an illustrated harbor town",
     "titleZh": "《All the Swifts Return》：配插画港口小镇的一首歌",
+    "tools": []
+  },
+  {
+    "id": "2123100495976046964",
+    "url": "https://x.com/argofowl/status/2123100495976046964",
+    "maker": "argofowl",
+    "category": "compare",
+    "seconds": 40,
+    "postedAt": "2026-11-18",
+    "title": "A cat on a desk at night knocking things off: GPT-6.2 Astra at $9.43 vs Fable 5.2 at $116.68",
+    "titleZh": "深夜把书桌上的东西拨下去的猫：GPT-6.2 Astra 花费 9.43 美元，Fable 5.2 花费 116.68 美元",
+    "tools": []
+  },
+  {
+    "id": "2123911052832190818",
+    "url": "https://x.com/maxt3chno/status/2123911052832190818",
+    "maker": "maxt3chno",
+    "category": "compare",
+    "seconds": 40,
+    "postedAt": "2026-11-20",
+    "title": "A battle axe in a blind Blender MCP test with no references: GPT-6.2 Astra vs Gemini 4 Neon vs Opus 5.5",
+    "titleZh": "无参考的 Blender MCP 盲测中的战斧：GPT-6.2 Astra、Gemini 4 Neon 与 Opus 5.5 对比",
+    "tools": []
+  },
+  {
+    "id": "2122915684086849611",
+    "url": "https://x.com/aura_uniiiii/status/2122915684086849611",
+    "maker": "aura_uniiiii",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-18",
+    "title": "A pen signing \"ChatGPT\" in calligraphy, made with Remotion at Max: GPT-6.2 Astra vs GPT-6.2 Sol",
+    "titleZh": "用 Remotion 制作的钢笔书写“ChatGPT”签名，均为 Max：GPT-6.2 Astra 对比 GPT-6.2 Sol",
     "tools": []
   },
   {
@@ -429,6 +1375,28 @@
     "tools": []
   },
   {
+    "id": "2122996874827210922",
+    "url": "https://x.com/Mortezabihzadeh/status/2122996874827210922",
+    "maker": "Mortezabihzadeh",
+    "category": "scene3d",
+    "seconds": 49,
+    "postedAt": "2026-11-18",
+    "title": "A 3D desk world with a marble rolling through a machine, playable in the browser",
+    "titleZh": "弹珠滚过机关的 3D 桌面世界，可在浏览器中把玩",
+    "tools": []
+  },
+  {
+    "id": "2123169627815698522",
+    "url": "https://x.com/Super_Nius/status/2123169627815698522",
+    "maker": "Super_Nius",
+    "category": "compare",
+    "seconds": 24,
+    "postedAt": "2026-11-18",
+    "title": "An isometric convenience store on a rainy night: GPT-6.2 Sol in 5 min 29 s vs Gemini 4 Neon in 2 min",
+    "titleZh": "雨夜里的等距视角便利店：GPT-6.2 Sol 用时 5 分 29 秒，Gemini 4 Neon 用时 2 分钟",
+    "tools": []
+  },
+  {
     "id": "2122799400061960611",
     "url": "https://x.com/Dimillian/status/2122799400061960611",
     "maker": "Dimillian",
@@ -437,6 +1405,50 @@
     "postedAt": "2026-11-17",
     "title": "A backrooms walk with a VHS camcorder look, full of props and biomes",
     "titleZh": "带 VHS 摄像机质感的后室漫游，道具和区域丰富",
+    "tools": []
+  },
+  {
+    "id": "2124646782433124652",
+    "url": "https://x.com/kloss_xyz/status/2124646782433124652",
+    "maker": "kloss_xyz",
+    "category": "scene3d",
+    "seconds": 28,
+    "postedAt": "2026-11-22",
+    "title": "Three hyper-real scenes in raw WebGL and GLSL shaders, each in one HTML file",
+    "titleZh": "三个用原生 WebGL 和 GLSL 着色器做的超写实场景，各为单个 HTML 文件",
+    "tools": []
+  },
+  {
+    "id": "2123631976284602806",
+    "url": "https://x.com/sarischerika/status/2123631976284602806",
+    "maker": "sarischerika",
+    "category": "film",
+    "seconds": 36,
+    "postedAt": "2026-11-20",
+    "title": "Cheeky Angel Runs Through the Palace City, 3D by GPT-6.2 Astra, video and music by Fable 5.2",
+    "titleZh": "《调皮天使驰骋宫都》：3D 由 GPT-6.2 Astra 制作，影像与音乐由 Fable 5.2 完成",
+    "tools": []
+  },
+  {
+    "id": "2124203254011854973",
+    "url": "https://x.com/Bhavani_00007/status/2124203254011854973",
+    "maker": "Bhavani_00007",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-21",
+    "title": "The Eiffel Tower in three.js: Gemini 4 Neon vs GPT-6.2 Astra vs GPT-6.2 Sol vs Opus 5.5",
+    "titleZh": "three.js 中的埃菲尔铁塔：Gemini 4 Neon、GPT-6.2 Astra、GPT-6.2 Sol 与 Opus 5.5 对比",
+    "tools": []
+  },
+  {
+    "id": "2123211478241271829",
+    "url": "https://x.com/Akki_AI7/status/2123211478241271829",
+    "maker": "Akki_AI7",
+    "category": "scene3d",
+    "seconds": 15,
+    "postedAt": "2026-11-19",
+    "title": "Mount Fuji above a sea of clouds at sunrise, 15 seconds drawn entirely in code",
+    "titleZh": "日出时云海之上的富士山，15 秒全部由代码绘制",
     "tools": []
   },
   {
@@ -462,6 +1474,17 @@
     "tools": []
   },
   {
+    "id": "2124286667288891534",
+    "url": "https://x.com/MelissaKampers/status/2124286667288891534",
+    "maker": "MelissaKampers",
+    "category": "explainer",
+    "seconds": 59,
+    "postedAt": "2026-11-21",
+    "title": "A short explainer of the Riemann Hypothesis, every frame and sound made by code, Sol in 12 minutes",
+    "titleZh": "黎曼猜想短讲解片，每一帧画面和声音都由代码生成，Sol 用时 12 分钟",
+    "tools": []
+  },
+  {
     "id": "2122763107793850483",
     "url": "https://x.com/Super_Nius/status/2122763107793850483",
     "maker": "Super_Nius",
@@ -473,6 +1496,61 @@
     "tools": []
   },
   {
+    "id": "2123601627412038120",
+    "url": "https://x.com/RohanArun/status/2123601627412038120",
+    "maker": "RohanArun",
+    "category": "explainer",
+    "seconds": 113,
+    "postedAt": "2026-11-20",
+    "title": "How GPT-6.2 Astra disproved a geometry conjecture in 30 minutes, explained with dots on a curve",
+    "titleZh": "GPT-6.2 Astra 如何在 30 分钟内推翻一个几何猜想，用曲线上的点讲清楚",
+    "tools": []
+  },
+  {
+    "id": "2124474268079567329",
+    "url": "https://x.com/AIMind_Ai/status/2124474268079567329",
+    "maker": "AIMind_Ai",
+    "category": "compare",
+    "seconds": 32,
+    "postedAt": "2026-11-22",
+    "title": "A watermelon frozen in ice, melted and blown up: Fable 5.2 vs Opus 5.5 vs Gemini 4 Neon vs GPT-6.2 Astra",
+    "titleZh": "冰封西瓜融化后炸开：Fable 5.2、Opus 5.5、Gemini 4 Neon 与 GPT-6.2 Astra 对比",
+    "tools": []
+  },
+  {
+    "id": "2124840020691284174",
+    "url": "https://x.com/kinderlayer/status/2124840020691284174",
+    "maker": "kinderlayer",
+    "category": "compare",
+    "seconds": 25,
+    "postedAt": "2026-11-23",
+    "title": "A blade strikes a palace floor and an ice mammoth rises: Fable 5.2 vs GPT-6.2 Astra",
+    "titleZh": "利刃击中宫殿地面，冰封猛犸破地而出：Fable 5.2 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
+    "id": "2123156510339465525",
+    "url": "https://x.com/LexnLin/status/2123156510339465525",
+    "maker": "LexnLin",
+    "category": "scene3d",
+    "seconds": 40,
+    "postedAt": "2026-11-18",
+    "title": "A firefall glowing orange down a granite cliff in winter, all code",
+    "titleZh": "冬日花岗岩峭壁上泛着橙光的“火瀑布”，纯代码",
+    "tools": []
+  },
+  {
+    "id": "2123075963965898864",
+    "url": "https://x.com/coldmountainlab/status/2123075963965898864",
+    "maker": "coldmountainlab",
+    "category": "scene3d",
+    "seconds": 60,
+    "postedAt": "2026-11-18",
+    "title": "An ink-wash 3D wuxia game, with characters, effects, music and UI all made by AI",
+    "titleZh": "水墨风 3D 武侠游戏，角色、场景、特效、音乐与界面均由 AI 生成",
+    "tools": []
+  },
+  {
     "id": "2122810159970029910",
     "url": "https://x.com/MrTacticalX/status/2122810159970029910",
     "maker": "MrTacticalX",
@@ -481,6 +1559,17 @@
     "postedAt": "2026-11-17",
     "title": "A pirate ship from the same prompt: GPT-6.2 Astra at $3.20 vs Fable 5.2 at $34.41",
     "titleZh": "同一提示的海盗船：GPT-6.2 Astra 花费 3.20 美元，Fable 5.2 花费 34.41 美元",
+    "tools": []
+  },
+  {
+    "id": "2124757635530698771",
+    "url": "https://x.com/sonuv_dev/status/2124757635530698771",
+    "maker": "sonuv_dev",
+    "category": "film",
+    "seconds": 28,
+    "postedAt": "2026-11-23",
+    "title": "A papercraft animation of a mouse on a boat, sound effects and all in code, 30 minutes",
+    "titleZh": "纸艺风动画：乘船的小老鼠，音效也全由代码生成，耗时 30 分钟",
     "tools": []
   },
   {
@@ -506,6 +1595,17 @@
     "tools": []
   },
   {
+    "id": "2123081219537785006",
+    "url": "https://x.com/dken_w/status/2123081219537785006",
+    "maker": "dken_w",
+    "category": "scene3d",
+    "seconds": 14,
+    "postedAt": "2026-11-18",
+    "title": "A photographer's darkroom under red safelight, in about 2,500 lines of C++",
+    "titleZh": "红色安全灯下的摄影暗房，约 2500 行纯 C++ 绘制",
+    "tools": []
+  },
+  {
     "id": "2122809542660825292",
     "url": "https://x.com/fawnunwrap/status/2122809542660825292",
     "maker": "fawnunwrap",
@@ -514,6 +1614,28 @@
     "postedAt": "2026-11-17",
     "title": "A 3D deer on FawnBench: GPT-6.2 Sol and Astra vs Opus 5.5 and Fable 5.2",
     "titleZh": "FawnBench 上的 3D 小鹿：GPT-6.2 Sol、Astra 对比 Opus 5.5、Fable 5.2",
+    "tools": []
+  },
+  {
+    "id": "2123778891642998857",
+    "url": "https://x.com/loktar00/status/2123778891642998857",
+    "maker": "loktar00",
+    "category": "scene3d",
+    "seconds": 30,
+    "postedAt": "2026-11-20",
+    "title": "A space battle with fighter ships and explosions",
+    "titleZh": "战机与爆炸交织的太空大战",
+    "tools": []
+  },
+  {
+    "id": "2124359724837863588",
+    "url": "https://x.com/Ssr360535694/status/2124359724837863588",
+    "maker": "Ssr360535694",
+    "category": "scene3d",
+    "seconds": 20,
+    "postedAt": "2026-11-22",
+    "title": "Yuhui, a 68 KB pixel-art flight game over lakes and autumn hills",
+    "titleZh": "《余辉》：飞越湖泊与秋日山丘的 68 KB 像素风飞行游戏",
     "tools": []
   },
   {
@@ -561,6 +1683,17 @@
     "tools": []
   },
   {
+    "id": "2123787634787098976",
+    "url": "https://x.com/ivanainai/status/2123787634787098976",
+    "maker": "ivanainai",
+    "category": "compare",
+    "seconds": 16,
+    "postedAt": "2026-11-20",
+    "title": "A rally car on a gravel mountain road: Opus 5.5 vs Gemini 4 Neon vs GPT-6.2 Astra",
+    "titleZh": "山间碎石路上的拉力赛车：Opus 5.5、Gemini 4 Neon 与 GPT-6.2 Astra 对比",
+    "tools": []
+  },
+  {
     "id": "2122764162124353906",
     "url": "https://x.com/Ananth7e/status/2122764162124353906",
     "maker": "Ananth7e",
@@ -569,6 +1702,17 @@
     "postedAt": "2026-11-17",
     "title": "A night-flight game over moonlit hills, built in 60 seconds",
     "titleZh": "60 秒做出的夜间飞行游戏，飞越月下山丘",
+    "tools": []
+  },
+  {
+    "id": "2123986686107377776",
+    "url": "https://x.com/majidmanzarpour/status/2123986686107377776",
+    "maker": "majidmanzarpour",
+    "category": "scene3d",
+    "seconds": 76,
+    "postedAt": "2026-11-21",
+    "title": "KILLFEED, a fast browser FPS built by more than 100 AI agents",
+    "titleZh": "《KILLFEED》：由 100 多个 AI 代理打造的快节奏浏览器 FPS",
     "tools": []
   },
   {
@@ -594,6 +1738,17 @@
     "tools": []
   },
   {
+    "id": "2123124656316219725",
+    "url": "https://x.com/xikhar/status/2123124656316219725",
+    "maker": "xikhar",
+    "category": "scene3d",
+    "seconds": 100,
+    "postedAt": "2026-11-18",
+    "title": "A wilderness game to hunt, fish and chop wood for fire, after 10 hours on xhigh",
+    "titleZh": "可狩猎、钓鱼、砍柴生火的荒野探索游戏，xhigh 强度运行 10 小时",
+    "tools": []
+  },
+  {
     "id": "2122855198913663480",
     "url": "https://x.com/maxt3chno/status/2122855198913663480",
     "maker": "maxt3chno",
@@ -602,6 +1757,50 @@
     "postedAt": "2026-11-18",
     "title": "A propeller fighter above the clouds in Three.js: GPT-6.2 Sol vs GPT-6.2 Astra",
     "titleZh": "云层之上的螺旋桨战斗机，Three.js：GPT-6.2 Sol 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
+    "id": "2124998107884867704",
+    "url": "https://x.com/fleetingbits/status/2124998107884867704",
+    "maker": "fleetingbits",
+    "category": "scene3d",
+    "seconds": 29,
+    "postedAt": "2026-11-23",
+    "title": "A painted 3D render of Philip Johnson's Glass House among autumn trees, for a website",
+    "titleZh": "绘画质感的菲利普·约翰逊玻璃屋 3D 渲染，秋日树林环绕，用于个人网站",
+    "tools": []
+  },
+  {
+    "id": "2123205785245134924",
+    "url": "https://x.com/Skoorbkaz/status/2123205785245134924",
+    "maker": "Skoorbkaz",
+    "category": "explainer",
+    "seconds": 120,
+    "postedAt": "2026-11-19",
+    "title": "The Paths They Took, an interpretive explainer where a starling murmuration turns into particle trails",
+    "titleZh": "《The Paths They Took》：椋鸟群飞化作粒子轨迹的诠释性解说",
+    "tools": []
+  },
+  {
+    "id": "2123177445150859743",
+    "url": "https://x.com/PawelJLisowski/status/2123177445150859743",
+    "maker": "PawelJLisowski",
+    "category": "compare",
+    "seconds": 38,
+    "postedAt": "2026-11-18",
+    "title": "A flying game among floating islands in 90 minutes: GPT-6.2 Astra vs Fable 5.2 vs GPT-6.2 Sol vs Opus 5.5",
+    "titleZh": "90 分钟内做出的浮空群岛飞行游戏：GPT-6.2 Astra、Fable 5.2、GPT-6.2 Sol 与 Opus 5.5 对比",
+    "tools": []
+  },
+  {
+    "id": "2123004538974294470",
+    "url": "https://x.com/marcthecreatorr/status/2123004538974294470",
+    "maker": "marcthecreatorr",
+    "category": "compare",
+    "seconds": 28,
+    "postedAt": "2026-11-18",
+    "title": "Tandem Ride in SVG, a girl and a cat on a bicycle: GPT-6.2 Sol at about $1.90 vs Opus 5.5 at about $18",
+    "titleZh": "《Tandem Ride》SVG，女孩与猫骑自行车：GPT-6.2 Sol 花费约 1.9 美元，Opus 5.5 花费约 18 美元",
     "tools": []
   },
   {
@@ -616,6 +1815,61 @@
     "tools": []
   },
   {
+    "id": "2124188465747173595",
+    "url": "https://x.com/rubenssoto_ai/status/2124188465747173595",
+    "maker": "rubenssoto_ai",
+    "category": "scene3d",
+    "seconds": 40,
+    "postedAt": "2026-11-21",
+    "title": "An open-road driving game with real crashes, built with Opus 5.5 and Astra in 2 days",
+    "titleZh": "可真实撞车的开放公路驾驶游戏，Opus 5.5 与 Astra 合作 2 天完成",
+    "tools": []
+  },
+  {
+    "id": "2124112687668109752",
+    "url": "https://x.com/FabianoFirmo/status/2124112687668109752",
+    "maker": "FabianoFirmo",
+    "category": "compare",
+    "seconds": 40,
+    "postedAt": "2026-11-21",
+    "title": "A submarine in dark water: GPT-6.2 Astra vs Fable 5.2",
+    "titleZh": "幽暗水中的潜艇：GPT-6.2 Astra 对比 Fable 5.2",
+    "tools": []
+  },
+  {
+    "id": "2122925157086114283",
+    "url": "https://x.com/DeryaTR_/status/2122925157086114283",
+    "maker": "DeryaTR_",
+    "category": "scene3d",
+    "seconds": 120,
+    "postedAt": "2026-11-18",
+    "title": "A walkable New York, from a subway ride under the East River up the stairs to the street",
+    "titleZh": "可漫游的纽约：乘地铁穿过东河底，再走楼梯回到街头",
+    "tools": []
+  },
+  {
+    "id": "2124178021154431319",
+    "url": "https://x.com/EnvolDev/status/2124178021154431319",
+    "maker": "EnvolDev",
+    "category": "compare",
+    "seconds": 25,
+    "postedAt": "2026-11-21",
+    "title": "Lava pouring into the sea from the Black Coast Burns prompt: GPT-6.2 Astra at $10.19 vs Fable 5.2 at $41.11",
+    "titleZh": "同一 Black Coast Burns 提示的熔岩入海：GPT-6.2 Astra 花费 10.19 美元，Fable 5.2 花费 41.11 美元",
+    "tools": []
+  },
+  {
+    "id": "2122874484046901613",
+    "url": "https://x.com/LurkShade/status/2122874484046901613",
+    "maker": "LurkShade",
+    "category": "motion",
+    "seconds": 22,
+    "postedAt": "2026-11-18",
+    "title": "A poster-style motion graphic of a character striking a strange pose",
+    "titleZh": "海报风动态图形：摆出怪异姿势的角色",
+    "tools": []
+  },
+  {
     "id": "2122815187010883798",
     "url": "https://x.com/itssotsot/status/2122815187010883798",
     "maker": "itssotsot",
@@ -624,6 +1878,39 @@
     "postedAt": "2026-11-17",
     "title": "An ink drop spreading into a Rorschach shape: GPT-6.2 Astra vs Fable 5.2 on high",
     "titleZh": "墨滴在纸上晕开成罗夏墨迹：GPT-6.2 Astra 对比 Fable 5.2，均为 high",
+    "tools": []
+  },
+  {
+    "id": "2123035052992762312",
+    "url": "https://x.com/PawelJLisowski/status/2123035052992762312",
+    "maker": "PawelJLisowski",
+    "category": "compare",
+    "seconds": 20,
+    "postedAt": "2026-11-18",
+    "title": "Concept art to a rigged, animated steampunk character in Blender: GPT-6.2 Astra vs GPT-6.2 Sol vs Fable 5.2",
+    "titleZh": "由概念图做成带骨骼动画的蒸汽朋克 3D 角色，Blender：GPT-6.2 Astra、GPT-6.2 Sol 与 Fable 5.2 对比",
+    "tools": []
+  },
+  {
+    "id": "2124876876003058040",
+    "url": "https://x.com/loktar00/status/2124876876003058040",
+    "maker": "loktar00",
+    "category": "scene3d",
+    "seconds": 30,
+    "postedAt": "2026-11-23",
+    "title": "The Forager, a photoreal honeybee on a sunflower",
+    "titleZh": "《The Forager》：向日葵上的逼真蜜蜂",
+    "tools": []
+  },
+  {
+    "id": "2122955868497178905",
+    "url": "https://x.com/pritopian/status/2122955868497178905",
+    "maker": "pritopian",
+    "category": "scene3d",
+    "seconds": 20,
+    "postedAt": "2026-11-18",
+    "title": "Raja Ravi Varma's Radha in the Moonlight in 3D, with detailed sari, motifs and jewelry",
+    "titleZh": "3D 重现拉贾·拉维·瓦尔马名画《月光下的拉达》，纱丽纹样与首饰细致入微",
     "tools": []
   },
   {
@@ -649,6 +1936,28 @@
     "tools": []
   },
   {
+    "id": "2123674453120840143",
+    "url": "https://x.com/loktar00/status/2123674453120840143",
+    "maker": "loktar00",
+    "category": "motion",
+    "seconds": 30,
+    "postedAt": "2026-11-20",
+    "title": "A pixel-art dispatch rider game across a passing landscape",
+    "titleZh": "像素风快递骑手游戏，穿行于流动的风景",
+    "tools": []
+  },
+  {
+    "id": "2123309854227915031",
+    "url": "https://x.com/yohakujpn/status/2123309854227915031",
+    "maker": "yohakujpn",
+    "category": "compare",
+    "seconds": 20,
+    "postedAt": "2026-11-19",
+    "title": "Neon light rings and starbursts: Gemini 4 Neon in 5 min for $0.30 vs GPT-6.2 Astra in 19 min for $1.20",
+    "titleZh": "霓虹光环与星芒：Gemini 4 Neon 用时 5 分钟、花费 0.3 美元，对比 GPT-6.2 Astra 用时 19 分钟、花费 1.2 美元",
+    "tools": []
+  },
+  {
     "id": "2122887519864070480",
     "url": "https://x.com/GKev1n/status/2122887519864070480",
     "maker": "GKev1n",
@@ -668,6 +1977,94 @@
     "postedAt": "2026-11-17",
     "title": "A CD jukebox in the browser, five songs in one HTML file",
     "titleZh": "在浏览器中运行的 CD 点唱机，5 首歌都装在一个 HTML 文件里",
+    "tools": []
+  },
+  {
+    "id": "2123681305951187449",
+    "url": "https://x.com/Leviwoyun/status/2123681305951187449",
+    "maker": "Leviwoyun",
+    "category": "motion",
+    "seconds": 59,
+    "postedAt": "2026-11-20",
+    "title": "A Dada-style paper collage animation of a drummer and a trumpeter, with sound",
+    "titleZh": "达达风格纸拼贴动画：鼓手与小号手，带音效",
+    "tools": []
+  },
+  {
+    "id": "2123334046797410563",
+    "url": "https://x.com/riffydays/status/2123334046797410563",
+    "maker": "riffydays",
+    "category": "compare",
+    "seconds": 46,
+    "postedAt": "2026-11-19",
+    "title": "A one-prompt cartoon of a man at a canal-side cafe: Opus 5.5 vs Gemini 4 Neon vs GPT-6.2 Astra",
+    "titleZh": "一句提示执导的卡通短片，运河边咖啡馆里的男人：Opus 5.5、Gemini 4 Neon 与 GPT-6.2 Astra 对比",
+    "tools": []
+  },
+  {
+    "id": "2123071662199583137",
+    "url": "https://x.com/op7418/status/2123071662199583137",
+    "maker": "op7418",
+    "category": "scene3d",
+    "seconds": 8,
+    "postedAt": "2026-11-18",
+    "title": "A stone dragon coiled around a Chinese pagoda in the clouds",
+    "titleZh": "云中盘绕在中式宝塔上的石龙",
+    "tools": []
+  },
+  {
+    "id": "2122954817144512612",
+    "url": "https://x.com/OmoiroProject/status/2122954817144512612",
+    "maker": "OmoiroProject",
+    "category": "scene3d",
+    "seconds": 30,
+    "postedAt": "2026-11-18",
+    "title": "A drone flight over a Kyoto-style townscape, in three.js and Blender",
+    "titleZh": "无人机视角飞越京都风街景，three.js + Blender",
+    "tools": []
+  },
+  {
+    "id": "2125038756264837301",
+    "url": "https://x.com/kloss_xyz/status/2125038756264837301",
+    "maker": "kloss_xyz",
+    "category": "scene3d",
+    "seconds": 29,
+    "postedAt": "2026-11-24",
+    "title": "A robot under a giant pink mushroom in a mossy forest, one-shot in one HTML file",
+    "titleZh": "苔藓森林中巨型粉色蘑菇下的机器人，单个 HTML 文件一次生成",
+    "tools": []
+  },
+  {
+    "id": "2123072990359232690",
+    "url": "https://x.com/Lokastaz/status/2123072990359232690",
+    "maker": "Lokastaz",
+    "category": "scene3d",
+    "seconds": 11,
+    "postedAt": "2026-11-18",
+    "title": "A pixel-art splat mini game: a little 4x4 jumping ramps and splashing through water",
+    "titleZh": "像素风泼溅小游戏：小四驱车飞跃坡道、冲进水里",
+    "tools": []
+  },
+  {
+    "id": "2122900918941434287",
+    "url": "https://x.com/baku_lab/status/2122900918941434287",
+    "maker": "baku_lab",
+    "category": "scene3d",
+    "seconds": 14,
+    "postedAt": "2026-11-18",
+    "title": "Orbit Arcade, a 2.74 MB marble game with a panda avatar, made without Unity",
+    "titleZh": "《Orbit Arcade》：带熊猫角色的弹珠游戏，仅 2.74 MB，未使用 Unity",
+    "tools": []
+  },
+  {
+    "id": "2123064075802296326",
+    "url": "https://x.com/maxt3chno/status/2123064075802296326",
+    "maker": "maxt3chno",
+    "category": "scene3d",
+    "seconds": 70,
+    "postedAt": "2026-11-18",
+    "title": "A playable warships mini-game built by Opus 5.5 and GPT-6.2 working in parallel",
+    "titleZh": "由 Opus 5.5 与 GPT-6.2 并行协作做出的可玩战舰小游戏",
     "tools": []
   },
   {
@@ -737,6 +2134,50 @@
     "tools": []
   },
   {
+    "id": "2123061165735686224",
+    "url": "https://x.com/camperaigg/status/2123061165735686224",
+    "maker": "camperaigg",
+    "category": "motion",
+    "seconds": 30,
+    "postedAt": "2026-11-18",
+    "title": "A pixel-art World Turtle carrying a whole town, in 23 min for $2.88",
+    "titleZh": "背着整座小镇的像素风世界龟，用时 23 分钟、花费 2.88 美元",
+    "tools": []
+  },
+  {
+    "id": "2122923183812776157",
+    "url": "https://x.com/AI_Screening/status/2122923183812776157",
+    "maker": "AI_Screening",
+    "category": "compare",
+    "seconds": 18,
+    "postedAt": "2026-11-18",
+    "title": "A zebra galloping across a savanna: Fable 5.2 vs Opus 5.5 vs GPT-6.2 Astra vs GPT-6.2 Sol",
+    "titleZh": "驰骋草原的斑马：Fable 5.2、Opus 5.5、GPT-6.2 Astra 与 GPT-6.2 Sol 对比",
+    "tools": []
+  },
+  {
+    "id": "2123258802334310455",
+    "url": "https://x.com/yyuntng177680/status/2123258802334310455",
+    "maker": "yyuntng177680",
+    "category": "scene3d",
+    "seconds": 14,
+    "postedAt": "2026-11-19",
+    "title": "A photoreal library room with leather armchairs, modeled and ray-traced from one blurry screenshot",
+    "titleZh": "摆着皮质扶手椅的写实书房，仅凭一张模糊截图建模并光追渲染",
+    "tools": []
+  },
+  {
+    "id": "2123048325247373643",
+    "url": "https://x.com/muku_sns/status/2123048325247373643",
+    "maker": "muku_sns",
+    "category": "scene3d",
+    "seconds": 29,
+    "postedAt": "2026-11-18",
+    "title": "Valbrune, a Swiss mountain village built in Blender with no human at the controls",
+    "titleZh": "《Valbrune》：瑞士山村，全程无人动手操作 Blender",
+    "tools": []
+  },
+  {
     "id": "2122760051454562368",
     "url": "https://x.com/CodeByNZ/status/2122760051454562368",
     "maker": "CodeByNZ",
@@ -759,6 +2200,50 @@
     "tools": []
   },
   {
+    "id": "2124780083294437585",
+    "url": "https://x.com/AINetworkTech/status/2124780083294437585",
+    "maker": "AINetworkTech",
+    "category": "motion",
+    "seconds": 4,
+    "postedAt": "2026-11-23",
+    "title": "A 3D hand designed, rigged and animated to close into a fist, fully automated",
+    "titleZh": "全自动完成设计、绑定骨骼并制作握拳动作的 3D 手部",
+    "tools": []
+  },
+  {
+    "id": "2124489245343760883",
+    "url": "https://x.com/pieash4/status/2124489245343760883",
+    "maker": "pieash4",
+    "category": "scene3d",
+    "seconds": 14,
+    "postedAt": "2026-11-22",
+    "title": "Yakiimo Catch, a cute pixel game of cat shopkeepers, made with Sol in 5 messages",
+    "titleZh": "《Yakiimo Catch》：猫咪店员招待客人的可爱像素游戏，Sol 只用 5 条消息",
+    "tools": []
+  },
+  {
+    "id": "2123019185554862135",
+    "url": "https://x.com/thomas_guilcher/status/2123019185554862135",
+    "maker": "thomas_guilcher",
+    "category": "compare",
+    "seconds": 72,
+    "postedAt": "2026-11-18",
+    "title": "Rue du Jerzual in Dinan recreated: GPT-6 Astra vs GPT-6.2 Astra",
+    "titleZh": "重现迪南的 Jerzual 街：GPT-6 Astra 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
+    "id": "2122842995162763637",
+    "url": "https://x.com/takamasa045/status/2122842995162763637",
+    "maker": "takamasa045",
+    "category": "compare",
+    "seconds": 30,
+    "postedAt": "2026-11-18",
+    "title": "An Azuchi-Momoyama castle town diorama in Three.js at Max: GPT-6.2 Astra vs GPT-6.2 Sol",
+    "titleZh": "安土桃山时代城下町的 Three.js 微缩场景，均为 Max：GPT-6.2 Astra 对比 GPT-6.2 Sol",
+    "tools": []
+  },
+  {
     "id": "2122782073102663874",
     "url": "https://x.com/lucian__03/status/2122782073102663874",
     "maker": "lucian__03",
@@ -767,6 +2252,39 @@
     "postedAt": "2026-11-17",
     "title": "A 3D Rube Goldberg machine in HTML, made with Sol at Max in 25 minutes for $3.03",
     "titleZh": "HTML 3D 鲁布·戈德堡机械，Sol 在 Max 强度下耗时 25 分钟、花费 3.03 美元",
+    "tools": []
+  },
+  {
+    "id": "2123140487368642799",
+    "url": "https://x.com/aug5thmusic/status/2123140487368642799",
+    "maker": "aug5thmusic",
+    "category": "music",
+    "seconds": 107,
+    "postedAt": "2026-11-18",
+    "title": "Alder Mill, a retro handheld-style pixel RPG with its music written in LilyPond, at Extra High effort",
+    "titleZh": "《Alder Mill》：复古掌机风像素 RPG，配乐用 LilyPond 写成，Extra High 强度",
+    "tools": []
+  },
+  {
+    "id": "2123126087269957998",
+    "url": "https://x.com/tobiadonadon_/status/2123126087269957998",
+    "maker": "tobiadonadon_",
+    "category": "compare",
+    "seconds": 12,
+    "postedAt": "2026-11-18",
+    "title": "A robot head from a reference image, built and animated in Blender: Fable 5.2 vs GPT-6.2 Astra",
+    "titleZh": "照参考图在 Blender 中建模并制作动画的机器人头部：Fable 5.2 对比 GPT-6.2 Astra",
+    "tools": []
+  },
+  {
+    "id": "2123508977224831336",
+    "url": "https://x.com/mansfieldrv6/status/2123508977224831336",
+    "maker": "mansfieldrv6",
+    "category": "scene3d",
+    "seconds": 62,
+    "postedAt": "2026-11-19",
+    "title": "A small aerobatic plane built from its owner's photos and blueprints, flying over mountains and a lake",
+    "titleZh": "依据机主照片与图纸做出的小型特技飞机，飞越群山与湖泊",
     "tools": []
   },
   {
@@ -781,6 +2299,28 @@
     "tools": []
   },
   {
+    "id": "2122931210917990653",
+    "url": "https://x.com/momotomo1/status/2122931210917990653",
+    "maker": "momotomo1",
+    "category": "motion",
+    "seconds": 18,
+    "postedAt": "2026-11-18",
+    "title": "An Ocean of One, a red fish among 6,200 whose school becomes a whale",
+    "titleZh": "《An Ocean of One》：6200 条鱼里的一条红鱼，鱼群最终聚成一头鲸",
+    "tools": []
+  },
+  {
+    "id": "2123438651656818901",
+    "url": "https://x.com/camperaigg/status/2123438651656818901",
+    "maker": "camperaigg",
+    "category": "compare",
+    "seconds": 10,
+    "postedAt": "2026-11-19",
+    "title": "A snow wolf running through a forest in Three.js: Gemini 4 Neon in 25 min for $5.45 vs GPT-6.2 Astra in 7 min for $1.56",
+    "titleZh": "Three.js 中穿越森林奔跑的雪狼：Gemini 4 Neon 用时 25 分钟、花费 5.45 美元，对比 GPT-6.2 Astra 用时 7 分钟、花费 1.56 美元",
+    "tools": []
+  },
+  {
     "id": "2122862960179884241",
     "url": "https://x.com/GKev1n/status/2122862960179884241",
     "maker": "GKev1n",
@@ -789,6 +2329,28 @@
     "postedAt": "2026-11-18",
     "title": "A pelican riding a bicycle, all in code: GPT-6.2 Astra vs Fable 5.2 and Opus 5.5",
     "titleZh": "骑自行车的鹈鹕，纯代码制作：GPT-6.2 Astra 对比 Fable 5.2 与 Opus 5.5",
+    "tools": []
+  },
+  {
+    "id": "2123188810942931447",
+    "url": "https://x.com/pr0mptcat/status/2123188810942931447",
+    "maker": "pr0mptcat",
+    "category": "scene3d",
+    "seconds": 16,
+    "postedAt": "2026-11-18",
+    "title": "A cinematic pirate ship sailing at sunset, built for $4.86",
+    "titleZh": "夕阳下航行的电影感海盗船，花费 4.86 美元",
+    "tools": []
+  },
+  {
+    "id": "2122961497748029811",
+    "url": "https://x.com/One2xDatalab/status/2122961497748029811",
+    "maker": "One2xDatalab",
+    "category": "compare",
+    "seconds": 6,
+    "postedAt": "2026-11-18",
+    "title": "A pelican riding a bike in Blender: GPT-6.2 Sol vs GPT-6.2 Astra, GPT-6 Astra, Gemini 4 Carbon, Gemini 4 Hydrogen and Gemini 4 Argon",
+    "titleZh": "Blender 中骑自行车的鹈鹕：GPT-6.2 Sol 对比 GPT-6.2 Astra、GPT-6 Astra、Gemini 4 Carbon、Gemini 4 Hydrogen 与 Gemini 4 Argon",
     "tools": []
   },
   {
@@ -803,6 +2365,50 @@
     "tools": []
   },
   {
+    "id": "2123414745034400161",
+    "url": "https://x.com/koguGameDev/status/2123414745034400161",
+    "maker": "koguGameDev",
+    "category": "scene3d",
+    "seconds": 123,
+    "postedAt": "2026-11-19",
+    "title": "mlegged, a giant spider robot and a crawler on a dark ramp, playable in Three.js",
+    "titleZh": "《mlegged》：暗色坡道上的巨型蜘蛛机器人与爬行机，可玩的 Three.js 网页",
+    "tools": []
+  },
+  {
+    "id": "2123407849829404984",
+    "url": "https://x.com/aapakari/status/2123407849829404984",
+    "maker": "aapakari",
+    "category": "compare",
+    "seconds": 10,
+    "postedAt": "2026-11-19",
+    "title": "A lighthouse on a rocky coast at night as one web page: Gemini 4 Neon in 3 min 38 s vs GPT-6.2 Sol in 4 min 3 s",
+    "titleZh": "夜晚礁岸灯塔的单页网页：Gemini 4 Neon 用时 3 分 38 秒，GPT-6.2 Sol 用时 4 分 03 秒",
+    "tools": []
+  },
+  {
+    "id": "2123090720072650988",
+    "url": "https://x.com/YxzRainy/status/2123090720072650988",
+    "maker": "YxzRainy",
+    "category": "compare",
+    "seconds": 13,
+    "postedAt": "2026-11-18",
+    "title": "A cyberpunk city in a glass sphere: GPT-6.2 Astra vs Opus 5.5",
+    "titleZh": "玻璃球里的赛博朋克城市：GPT-6.2 Astra 对比 Opus 5.5",
+    "tools": []
+  },
+  {
+    "id": "2122916161839038862",
+    "url": "https://x.com/lemomo_ai/status/2122916161839038862",
+    "maker": "lemomo_ai",
+    "category": "scene3d",
+    "seconds": 20,
+    "postedAt": "2026-11-18",
+    "title": "Afternoon Pool, colorful rubber ducks on rippling water, a 32 KB page of hand-written WebGL",
+    "titleZh": "《午后的水池》：五颜六色的小黄鸭漂在泳池上，32 KB 手写 WebGL 网页，不用任何图片",
+    "tools": []
+  },
+  {
     "id": "2122759375337214121",
     "url": "https://x.com/DanielZambrini/status/2122759375337214121",
     "maker": "DanielZambrini",
@@ -811,6 +2417,17 @@
     "postedAt": "2026-11-17",
     "title": "A stickman duel with glowing blades at Ultra: Astra in 13 min vs Sol in 12 min",
     "titleZh": "火柴人光刃对决，Ultra 强度：Astra 用时 13 分钟，Sol 用时 12 分钟",
+    "tools": []
+  },
+  {
+    "id": "2122983459585216607",
+    "url": "https://x.com/mylesBaiM/status/2122983459585216607",
+    "maker": "mylesBaiM",
+    "category": "compare",
+    "seconds": 15,
+    "postedAt": "2026-11-18",
+    "title": "The last tram through a rainy mountain town at night, Three.js at Max: GPT-6.2 Astra vs GPT-6.2 Sol",
+    "titleZh": "雨夜山城的末班电车，Three.js，均为 Max：GPT-6.2 Astra 对比 GPT-6.2 Sol",
     "tools": []
   },
   {
@@ -855,6 +2472,17 @@
     "postedAt": "2026-11-17",
     "title": "Marseille in 3D, its harbor at sunset",
     "titleZh": "3D 马赛，夕阳下的港口",
+    "tools": []
+  },
+  {
+    "id": "2124760284338221241",
+    "url": "https://x.com/exploraX_/status/2124760284338221241",
+    "maker": "exploraX_",
+    "category": "compare",
+    "seconds": 42,
+    "postedAt": "2026-11-23",
+    "title": "Proper Kick, an animated food website from a reference image: GPT-6.2 Sol vs Opus 5.5",
+    "titleZh": "《Proper Kick》依参考图制作的动态美食网站：GPT-6.2 Sol 对比 Opus 5.5",
     "tools": []
   }
 ]
